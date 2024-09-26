@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Text;
 
 namespace TimerExample.Controllers
 {
-    using Microsoft.AspNetCore.Mvc;
-    using System.Text;
+   
 
     [Route("timer")]
     public class TimerController : Controller
