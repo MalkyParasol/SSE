@@ -1,0 +1,6 @@
+@TimerExample_HostAddress = http://localhost:5240
+
+GET {{TimerExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
